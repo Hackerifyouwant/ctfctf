@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/17lIhlp1M7c4lq4QD4nL9otcqZEXtvnUI
+
+SSTI
+http://blog.knownsec.com/2016/02/use-python-features-to-execute-arbitrary-codes-in-jinja2-templates/
+

@@ -1,0 +1,8 @@
+shellcode
+
+http://shell-storm.org/shellcode/
+
+md5 decode
+
+https://www.md5online.org/md5-decrypt.html
+

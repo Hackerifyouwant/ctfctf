@@ -1,0 +1,4 @@
+有人在演唱會中把flag唸出來了，而且我也錄下來了
+但是因為錄音機出了點問題，你能幫我把flag還原出來嗎
+[link](http://10.140.0.8/static/misc2_magi_flag.wav) 
+Flag格式: EOF{一些小寫字母跟底線} Hint: https://www.youtube.com/watch?v=czdPyQzOSDU

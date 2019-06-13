@@ -1,0 +1,11 @@
+remote(ip,port) // 與目標伺服器連接
+process('path')//檔案位置
+.recvuntil(分割字元)//讀資料直到讀到分割字元
+.interactive()//放在行尾，表開始互動
+.send(data)//就send阿智障
+
+curl -v//可讀性更高（必須
+curl -X OPTIONS //看傳送method
+
+
+
